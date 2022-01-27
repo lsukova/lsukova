@@ -1,4 +1,4 @@
-- Hey I'm @lsukova, but please call me Drew.
+- hey it's Drew
 - High interest in sports analytics, statistical studies, and science writing.
 - Undergraduate Sophomore in Data Science, Purdue University | Data Mine Undergraduate Researcher | Technical Content Editor with Purdue University Data Mine | Honors College Student Mentor
 
